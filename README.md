@@ -1,1 +1,1 @@
-# GamaAcademia
+# Gama Academy
