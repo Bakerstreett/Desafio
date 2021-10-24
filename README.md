@@ -1,6 +1,5 @@
 # Formulário de Cadastro Pessoal
 Autora
-https://github.com/EstherGomes2
 <a href="https://github.com/EstherGomes2">Esther Gomes</a>
 ## Descrição do Projeto
 Formulário para registrar dados pessoais
